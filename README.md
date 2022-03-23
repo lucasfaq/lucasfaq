@@ -8,7 +8,7 @@
   <img align="center" alt="Lfa-Ts" height="30" width="40" src="https://github.com/devicons/devicon/tree/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Lfa-React" height="30" width="40" src="https://github.com/devicons/devicon/tree/master/icons/react/react-original.svg">
   <img align="center" alt="Lfa-HTML" height="30" width="40" src="https://github.com/devicons/devicon/tree/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Lfa-CSS" height="30" width="40" src="https://github.com/devicons/devicon/tree/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Lfa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Lfa-Python" height="30" width="40" src="https://github.com/devicons/devicon/tree/master/icons/python/python-original.svg">
   <img align="center" alt="Lfa-Docker" height="30" width="40" src="https://github.com/devicons/devicon/tree/master/icons/docker/docker-original.svg">
   <img align="center" alt="Lfa-Kubernetes" height="30" width="40" src="https://github.com/devicons/devicon/tree/master/icons/kubernetes/kubernetes-plain.svg">
