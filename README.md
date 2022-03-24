@@ -14,7 +14,7 @@
   <img align="center" alt="Lfa-Jupyter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg">
   <img align="center" alt="Lfa-Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
   <img align="center" alt="Lfa-Kubernetes" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg">
-  <img align="center" alt="Lfa-Streamlit" height="30" width="40" src="https://github.com/devicons/devicon/tree/master/icons/kubernetes/kubernetes-plain.svg">
+  <img align="center" alt="Lfa-Streamlit" height="30" width="40" src="https://raw.githubusercontent.com/lucasfaq/lucasfaq/main/icons/Streamlit.svg">
   <img align="center" alt="Lfa-Vba" height="30" width="40" src="https://github.com/devicons/devicon/tree/master/icons/kubernetes/kubernetes-plain.svg">
   <img align="right" alt="Lfa-pic" height="150" style="border-radius:50px;">
 </div>
