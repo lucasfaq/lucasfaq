@@ -38,4 +38,4 @@ Languages and tools that i use to code:
 </div>
 
 ### Spotify Playing 🎧
-[<img src="https://lucasfaq.vercel.app/api/spotify-playing" alt="ashawe's Spotify Playing" width="350" />](https://open.spotify.com/user/31uxqsjmw4edk4pvhbeyg3iyv3re)
+[<img src="https://lucasfaq.vercel.app/api/spotify-playing" alt="Lfa's Spotify Playing" width="350" />](https://open.spotify.com/user/12151477906)
