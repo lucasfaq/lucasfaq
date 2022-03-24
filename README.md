@@ -32,6 +32,12 @@ Languages and tools that i use to code:
 </div>
   
   ##
+  
+<!--START_SECTION:waka-->
+  
+<!--END_SECTION:waka-->
+  
+  ##
  
 <div> 
  <a href="https://discord.gg/UgdDau95" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
