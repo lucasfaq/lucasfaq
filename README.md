@@ -2,6 +2,10 @@ Hi, I'm Lucas Aquino, a self-taught full-stack web developer and a industrial en
 
 ##
 
+![](https://komarev.com/ghpvc/?username=lucasfaq)
+
+##
+
 <div align="center">
   <a href="https://github.com/lucasfaq">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=lucasfaq&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
