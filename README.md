@@ -4,8 +4,8 @@ Hi, I'm Lucas Aquino, a self-taught full-stack web developer and a industrial en
 
 <div align="center">
   <a href="https://github.com/lucasfaq">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasfaq&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasfaq&layout=compact&langs_count=7&theme=github_dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=lucasfaq&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasfaq&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
   
   ##
