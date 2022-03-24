@@ -36,7 +36,6 @@ Languages and tools that i use to code:
   ![Snake animation](https://github.com/lucasfaq/lucasfaq/blob/output/github-contribution-grid-snake.svg)
  
 </div>
-  
-### Spotify Playing 🎧
 
-[<img src="https://lucasfaq.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/12151477906)
+### Spotify Playing 🎧
+[<img src="https://novatorem.ashawe.vercel.app/api/spotify" alt="ashawe's Spotify Playing" width="350" />](https://open.spotify.com/user/31uxqsjmw4edk4pvhbeyg3iyv3re)
