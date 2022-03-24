@@ -43,7 +43,7 @@ Languages and tools that i use to code:
  <a href="https://discord.gg/UgdDau95" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
  <a href = "mailto:lucasft@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  
-  ![Snake animation](https://github.com/lucasfaq/lucasfaq/blob/output/github-contribution-grid-snake.svg)
+  ![snake](https://raw.githubusercontent.com/lucasfaq/lucasfaq/output/github-contribution-grid-snake.svg)
  
 </div>
 
